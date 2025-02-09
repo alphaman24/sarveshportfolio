@@ -145,7 +145,7 @@ function App() {
         {/* Hero Section */}
         <section id="home" className="min-h-screen flex flex-col justify-center">
           <div className="space-y-5 max-w-3xl">
-            <p className="font-mono text-[#64ffda] text-sm md:text-base">Hi, I'm Sarvesh</p>
+            <p className="font-mono text-[#64ffda] text-sm md:text-base">Hi I'm</p>
             <h1 className="text-5xl md:text-7xl font-bold text-slate-200 leading-tight">
               Sarvesh
             </h1>
